@@ -1,0 +1,15 @@
+1301154160
+Faishal Rachman
+
+Fungsi yang dikerjakan
+1. Perbesar (beres)
+2. Perkecil (beres akan tetapi kurang paham)
+3. Penggeseran (beres)
+4. Brightness Perkalian (beres)
+5. Brightness Penjumlahan (beres)
+6. Histogram (beres)
+7. Histogram Equalization (beres akan tetapi kurang paham karena dapat dari stackoverflow)
+8. Konvolusi (beres)
+9. Threshold (beres)
+10. Region Growing (beres tapi karena mengggunakan rekursif jika diberi array besar maka akan overflow)
+11. Greyscale (beres)
